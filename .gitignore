@@ -30,9 +30,8 @@ build/
 !**/src/test/**/build/
 
 ### Do not upload my keys and passwords ###
-./src/main/resources/application.properties
+/src/main/resources/application.properties
 
 ### VS Code ###
 .vscode/
 
-testing testing testing
